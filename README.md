@@ -13,7 +13,7 @@
 
  ![Snake animation](https://github.com/IonaSantana/IonaSantana/blob/output/github-contribution-grid-snake.svg)
 
-Template baseado em: https://github.com/rafaballerini/rafaballerini/
+Cobrinha pode ser encontrada no git: https://github.com/rafaballerini/rafaballerini/
 
 
 
