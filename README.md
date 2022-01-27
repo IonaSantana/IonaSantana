@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo assuntos como Linguagem Natural e Visão Computacional
 - 😄 Meus pronomes são: Ela/Dela
 - 💬 Adoro ler, conversar e comer.
-- ⚡ Eu prefiro ler do que assistir vídeo. Isso tanto para livros de ficção, quanto para conteúdos em geral.
+- ⚡ Prefiro ler do que assistir vídeo. Isso tanto para livros de ficção, quanto para conteúdos em geral.
 
 
 <div align="center">
