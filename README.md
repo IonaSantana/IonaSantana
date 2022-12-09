@@ -1,11 +1,11 @@
 ### Olá 👋. 
 ### Bem vindo ao meu GIT, meu nome é Ioná!
 
-- 🔭 Atualmente faço estágio em ciência de dados na IBM Brasil
+- 🔭 Sou cientista de dados na Minerva Foods
 - 🌱 Estou aprendendo assuntos como Linguagem Natural e Visão Computacional
 - 😄 Meus pronomes são: Ela/Dela
-- 💬 Adoro ler, conversar e comer.
-- ⚡ Prefiro ler do que assistir vídeo. Isso tanto para livros de ficção, quanto para conteúdos em geral.
+- 💬 Adoro ler, conversar e comer
+- ⚡ Prefiro ler do que assistir vídeo
 
   <div> 
   <a href = "mailto:ionasantana123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
